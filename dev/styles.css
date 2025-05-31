@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    text-align: center;
+    background: #2e8b57;
+    color: white;
+    padding: 20px;
+}
+
+.pricing {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.service {
+    margin-bottom: 20px;
+    padding: 10px;
+    border-left: 5px solid #2e8b57;
+}
+
+footer {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 20px;
+}
