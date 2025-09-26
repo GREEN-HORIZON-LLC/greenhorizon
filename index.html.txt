@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Green Horizon Pricing</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Green Horizon Landscaping</h1>
+        <p>Expert landscaping solutions at competitive rates.</p>
+    </header>
+    <section class="pricing">
+        <h2>Our Pricing Guide</h2>
+        <div class="service">
+            <h3>Lawn Care & Maintenance</h3>
+            <p>Basic Package - $50/visit</p>
+            <p>Premium Package - $100/visit</p>
+            <p>Year-Round Care - $850/year</p>
+        </div>
+        <div class="service">
+            <h3>Landscape Design & Installation</h3>
+            <p>Garden Design Consultation - $150</p>
+            <p>Flower Bed Installation - $300+</p>
+            <p>Hardscaping (Patios, Walkways) - $1,500+</p>
+        </div>
+        <div class="service">
+            <h3>Tree & Shrub Services</h3>
+            <p>Pruning & Shaping - $75/tree</p>
+            <p>Tree Removal - $300+</p>
+            <p>Seasonal Shrub Care - $200/season</p>
+        </div>
+        <footer>
+            <p>📞 Call us today for a FREE consultation!</p>
+        </footer>
+    </section>
+</body>
+</html>
